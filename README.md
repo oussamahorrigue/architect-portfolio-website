@@ -1,9 +1,11 @@
 ## A slick, elegant portfolio website for architects and interior designers.
 
-![preview](preview.png)
-
 This is a one-page fully responsive website that contains a Header, About, Services,
 Portfolio, Blog and Footer section.
+
+## Website Preview
+
+![preview](preview.png)
 
 ## Built with
 
@@ -15,7 +17,7 @@ This website has been built with the following technologies:
 
 ## Demo
 
-[Click here](https://deepug9787.github.io/architect-portfolio-website/) to view a live demo
+[Click here](https://deepug9787.github.io/architect-portfolio-website/) to view a live demo.
 
 ## Usage Instructions
 
