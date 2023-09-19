@@ -1,28 +1,20 @@
-## A slick, elegant portfolio website for architects and interior designers.
+## Title:
+<h4>Oussama Horrigue - Portfolio</h4>
 
-This is a one-page fully responsive website that contains a Header, About, Services,
-Portfolio, Blog and Footer section.
+## Author:
+<h4>Oussama Horrigue</h4>
 
-## Website Preview
+## Link:
+<a href="https://oussamahorrigue.github.io/architect-portfolio-website/" target="_blank"><h3>https://oussamahorrigue.github.io/architect-portfolio-website/</h3></a>
 
-![preview](preview.png)
 
-## Built with
+## Connect with me:
+<p align="left">
 
-This website has been built with the following technologies:
+<a href = "https://www.linkedin.com/in/oussama-horrigue-69624b1b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/OussamaHorrig"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/oussamahorrigue/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/oussama.horrigue"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 
-1. HTML
-2. Vanilla CSS
-3. Vanilla JavaScript
+</p>
 
-## Demo
-
-[Click here](https://deepug9787.github.io/architect-portfolio-website/) to view a live demo.
-
-## Usage Instructions
-
-No setup required. Just navigate to the project folder and open the index.html file.
-
-## License
-
-This project is licensed under the MIT License.
